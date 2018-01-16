@@ -21,7 +21,7 @@ def main(input):
    
 if __name__ == '__main__':
     encryptedVal = main("emilio is the best")
-    assert(encryptedVal == "hplolr lv wkh ehvw");
+    assert(encryptedVal == "hplolr lv wkh ehvw")
     print("You would have passed the last lab here!")
     encryptedVal = main("tom is terrific")
     assert(encryptedVal == "wrp lv whuulilf")
